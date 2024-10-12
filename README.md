@@ -1,7 +1,7 @@
 
 # E-Ticaret
 
-Bu proje, temel bir e-ticaret sepeti uygulamasıdır. Uygulama, ürünleri ekleme, güncelleme, silme işlemlerini yönetir. Ayrıca, sepetteki ürünlerin toplam tutarını dinamik olarak görebilme ve ihtiyaç duymadıkları ürünleri kolayca sepetten çıkarabilme özelligine sahiptir.
+Bu proje, temel bir e-ticaret sepeti uygulamasıdır. Uygulama, ürünleri ekleme, güncelleme, silme işlemlerini yönetir. Ayrıca, sepetteki ürünler  tutarını dinamik olarak görebilme ve ihtiyaç duymadıkları ürünleri kolayca sepetten çıkarabilme özelligine sahiptir.
 
 # Kullanılan Teknolojiler
 
