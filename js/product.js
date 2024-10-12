@@ -1,4 +1,5 @@
 
+// Veriyi Apı dan alan fonksiyon
 export const fetchProducts = async () => {
     try {
         // Api a istek at
