@@ -9,4 +9,5 @@ HTML, CSS, JavaScript
 
 # Ekran GİF
 
-![VideoScreen1728768339492-ezgif com-optimize (2)](https://github.com/user-attachments/assets/a16f57b3-c4b5-4ca3-8bc8-5baf2eaf5495)
+![Video Screen1729414639702 (1)](https://github.com/user-attachments/assets/ca33ff75-3651-45f0-b5db-a3ffc5fdce50)
+
